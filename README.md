@@ -1,6 +1,6 @@
 _Django Takeoff_
 ===
-**Django** necessary materials and examples for begginers to start from zero and takeoff to learn more :).
+**Django** necessary materials and examples for begginers to start from zero and takeoff to learn more.
 
 ---
 
@@ -16,7 +16,7 @@ _Table of contents_
 	* Frontend web development
 * **What is django**?
 	* Overview
-	* Instullation
+	* Installation
 	* Django follows MVC pattern
   
 * **Virtual environment**
