@@ -10,12 +10,12 @@ Everyone wish to start learning django.
 
 _Table of contents_
 ===
-* [**Overview of python**](#overview_of_python)
+* [**Overview of python**](#overview-of-python)
 * **About web**
 	* Backend web development
 	* Frontend web development
-* [**Virtual environment**](#virtual_environment)
-	* Overview
+* [**Virtual environment**](#virtual-environment)
+	* [Overview](#overview)
 	* Why bother using it?
 	
 * [**What is django**?]()
