@@ -63,7 +63,7 @@ Overview of python
 ===
 ## Necessary materials to know
 
-* Python uses no semicolon and braces but intendation
+* python uses no semicolon and braces but intendation
 * defining variables
 * if, for, while syntax
 * list, map, tuples usage
@@ -71,10 +71,18 @@ Overview of python
 * classes declaration
 * Exception handling
 * import statement
+* python package manager
 
 Virtual Environment
 ===
 ## Overview
-what is ti?
+> A Virtual Environment is a tool to keep the dependencies required by different projects in separate places, by creating virtual Python environments for them. It solves the “Project X depends on version 1.x but, Project Y needs 4.x” dilemma, and keeps your global site-packages directory clean and manageable.
+
+Python has a virtual environment tool called virtualenv.
+
 ## Why bother using it?
-why its important
+Projects Dependencies become more and more complicated over time.
+
+You may not feel needing a Virtual Environment tool at the first but over time, the bigger projects get and the more projects you involve in, it will feel like hell managing dependencies of projects.
+
+A lot of these problems can be solved with a proper Virtual Environment tool like virtualenv.
