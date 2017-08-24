@@ -15,7 +15,7 @@ _Table of contents_
 	* Backend web development
 	* Frontend web development
 * [**Virtual environment**](#virtual-environment)
-	* [Overview](#overview)
+	* Overview
 	* Why bother using it?
 	
 * [**What is django**?]()
