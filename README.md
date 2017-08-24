@@ -63,6 +63,7 @@ Overview of python
 ## Necessary materials to know
 
 * Python uses no semicolon and braces but intendation
+* defining variables
 * if, for, while syntax
 * list, map, tuples usage
 * functions declaration
