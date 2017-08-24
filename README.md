@@ -14,14 +14,15 @@ _Table of contents_
 * **About web**
 	* Backend web development
 	* Frontend web development
+* **Virtual environment**
+	* Overview
+	* Why bother?
+	
 * **What is django**?
 	* Overview
 	* Installation
 	* Django follows MVC pattern
   
-* **Virtual environment**
-	* Overview
-	* Why bother?
 * **Development tools and IDEs**
 * **Starting a django project**
 	* What is an app?
